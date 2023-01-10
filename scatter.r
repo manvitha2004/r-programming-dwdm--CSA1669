@@ -1,0 +1,5 @@
+ name=c("manvi","mani","hema","deekshi","mohith","abhi")
+  age=c(18,9,5,16,17,2)
+  weight=c(55,40,60,88,77,66)
+  height=c(55,60,100,88,59,75)
+  scatter.smooth(age,weight) 
