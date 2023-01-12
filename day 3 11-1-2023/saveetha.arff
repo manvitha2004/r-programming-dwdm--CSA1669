@@ -1,0 +1,26 @@
+%%SAVEETHA ARMS PORTAL ATTENDANCE
+
+@relation saveetha_portal
+@attribute regist_number numeric
+@attribute attendance real
+@attribute type {'student','faculty'}
+@attribute phone_number numeric
+
+@data
+
+
+1145,100,'student',123
+1119,95,'student',156
+2103,8,'faculty',203
+2016,55,'student',222
+2022,76.3,'faculty',256
+3065,85.2,'student',289
+3075,56.2,'faculty',300
+3088,100,'faculty',396
+4322,6.0,'student',399
+4019,88,'faculty',400
+4022,66,'faculty',456
+5066,55.3,'student',489
+5088,22.3,'faculty',500
+5099,79.6,'student',599
+5066,66.3,'faculty',700
